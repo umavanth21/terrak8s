@@ -29,7 +29,7 @@ require (
 	github.com/ulikunitz/xz v0.5.6 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	k8s.io/api v0.0.0-20190222213804-5cb15d344471
+	k8s.io/api fbf594f18f80
 	k8s.io/apimachinery v0.0.0-20190221213512-86fb29eff628
 	k8s.io/client-go v10.0.0+incompatible
 	k8s.io/kube-aggregator v0.0.0-20190508191239-c5c2b08eec9f
